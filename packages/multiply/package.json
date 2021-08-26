@@ -1,0 +1,18 @@
+{
+  "name": "@meb/mutiply",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/multiply.js",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "files": [
+    "lib/*",
+    "package.json"
+  ],
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC"
+}

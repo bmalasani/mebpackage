@@ -1,0 +1,14 @@
+{
+  "name": "@meb/add",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/add.js",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC"
+}

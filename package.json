@@ -1,0 +1,19 @@
+{
+  "name": "mebpkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "workspaces": [
+    "packages/add",
+    "packages/multiply"
+  ]
+}
